@@ -1,0 +1,38 @@
+2.1b How would you define ‘artificial intelligence'?
+It's a machine that can learn by itself when given examples of a given object
+
+
+2.1c Give three examples of AI applications. You can choose real-life examples, but also examples from popular culture (e.g., movies, books, video games etc.).
+1 - Amazon Alexa
+2 - Google Assistant
+3 - Facebook
+
+
+2.2b Define the following terms: ‘weak AI', and ‘strong AI'.
+Weak AI also known as Narrow AI is concentrated to imitate human decision making on specific area but could not react appropriately when it is being asked to do something which it doesn't know about.
+Strong AI or General AI is a form of intelligence that can: understand, mimic actions and produce a response in given situation and continue to improve itself with no limits.
+
+
+2.2d What is the ‘Chinese room experiment'? Describe its procedure.
+One human is being put alone in a room with only a book that consists of given inputs "if this" and has corresponding outputs for them "then return this". He writes a response to a letter in Chinese given by a second person by following the algorithm.
+
+
+2.2e What is the ‘Chinese room experiment' supposed to show? Select the correct statement, and elaborate on your choice:
+a) Computers are not yet able to simulate the human ability to understand
+--b) Understanding involves more than the ability to formally reproduce appropriate outputs
+c) It is only possible for systems to demonstrate understanding
+d) No machine can demonstrate genuine understanding
+
+
+2.2f Connect the Post It notes (Fig 2.) to the relevant quadrant in the philosophy matrix (Fig 3.). For example, A = 1, 2, and B = 3, 4, 5 etc. Elaborate on your choices.
+A - 1 4
+B - 3 5
+C - 6 7 8
+D - 2 9
+
+
+3.2g After completing the readings and exercises of this section, would you provide the same answer to exercise 2.1b? Explain your answer.
+No because i have just learned that AI has two main types: Weak which is trained to perform given tasks in a specific area and Strong AI which can learn itself to new activities and add knowledge based on unknown for it real scenario situations with no limits.
+
+
+3.4a Install GitHub Desktop, and VSCode or another IDE/text editor on your local device. - Done
